@@ -1,4 +1,8 @@
-<h2 align="center">Hi 👋! My name is Daniil and I'm a frontend-developer, from the Russian Federation</h2>
+<h1 align="center">Всем привет, меня зовут Даниил👋!</h1>
+
+###
+
+<p align="left">About Me <br><br>Я Фронтенд-разработчик из России.<br><br>Люблю создавать что-то новое или улучшать старое, доводя его до полноценного качественного продукта, которым можно пользоваться .<br>Стремлюсь к улучшению своих навыков.<br>Я сейчас активно ищу работу.</p>
 
 ###
 
@@ -40,6 +44,8 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<div align="center">
+  <img height="150" src="https://steamuserimages-a.akamaihd.net/ugc/1818885572959056962/C5C633B0860936F4150D37B2B3D79D2B3A38B41D/?imw=512&imh=384&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true"  />
+</div>
 
 ###
